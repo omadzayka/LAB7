@@ -1,5 +1,5 @@
 const DEMO_USERNAME = '240408902@st.biruni.edu.tr'
-const DEMO_PASSWORD = 'omad23456'
+const DEMO_PASSWORD = 'demo123456'
 
 // Simulated server call: resolves after ~500 ms.
 export function login(username, password) {
