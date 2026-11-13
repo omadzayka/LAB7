@@ -1,5 +1,6 @@
 import { Outlet } from 'react-router'
 import NavBar from './NavBar'
+import { useLocalStorage } from '../hooks/useLocalStorage'
 
 export default function Layout() {
     const [theme, setTheme] = useLocalStorage('theme', 'light' )
