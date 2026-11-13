@@ -1,5 +1,8 @@
 # Assignment 7 – Online Shop
 
+        WARNING: Teacher the late commits are was a fix after the 10k commits in my codes, please take a look at it.
+        'AddEventListener' was added to see the error and mistakes on my code, thank you.
+
 Run: `npm install` then `npm run dev`.
 
 
