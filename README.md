@@ -2,7 +2,6 @@
 
 Run: `npm install` then `npm run dev`.
 
-Demo login: username = your student email (set it in `src/api/authApi.js`), password = `demo123456`.
 
 ## Reasoning questions
 >]The assignment was hard for me, because i was fixing errors every 3 minutes. Especially with the 10k commits.
